@@ -1,0 +1,5 @@
+RAZORPAY_KEY_ID=rzp_test_DXJ29xk4Ff2qLm
+RAZORPAY_SECRET=Th1sIsAFakeSecretKey93kd
+some normal comment about the project
+DB_PASSWORD=hunter2
+random_id = 12345
